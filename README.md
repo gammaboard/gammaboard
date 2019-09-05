@@ -1,3 +1,9 @@
+----
+
+## GammaBoard is now integrated and developed in [ctaplot](https://github.com/vuillaut/ctaplot) and will no longer be supported in this repository.
+
+----
+
 # GammaBoard
 
 _A dashboard to show them all._
