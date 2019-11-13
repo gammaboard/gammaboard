@@ -1,3 +1,5 @@
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
 ----
 
 ## GammaBoard is now integrated and developed in [ctaplot](https://github.com/vuillaut/ctaplot) and will no longer be supported in this repository.
